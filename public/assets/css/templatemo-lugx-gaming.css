@@ -1233,7 +1233,7 @@ Shop Page Style
   margin: 20px 20px;
 }
 
-#imgs-history > a > img{
+#imgs-history > div a > img{
   margin: 20px 0;
   border-radius: 22px;
   max-height: 500px; 
@@ -1253,7 +1253,11 @@ Shop Page Style
   text-decoration: line-through;
   display: block;
 }
-
+#copy-description{
+  font-size: 25PX;
+  text-align: justify;
+  margin: 10% 10%;
+}
 .trending-box .item span.price {
   text-align: right;
   position: absolute;
